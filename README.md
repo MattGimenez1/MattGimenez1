@@ -109,7 +109,7 @@ Sitio web para un emprendimiento gastronómico, con presentación del negocio, m
   <a href="https://github.com/MattGimenez1">
     <img src="https://img.shields.io/badge/GitHub-MattGimenez1-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="URL_MI_LINKEDIN">
+  <a href="https://www.linkedin.com/in/matias-gimenez-28405834b/">
     <img src="https://img.shields.io/badge/LinkedIn-Contactame-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
