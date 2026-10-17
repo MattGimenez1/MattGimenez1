@@ -2,72 +2,120 @@
 
 ### 💻 Desarrollador de software en formación
 
-Soy estudiante de la **Tecnicatura Universitaria en Programación en la UTN FRGP**.
+🎓 Estudiante de la **Tecnicatura Universitaria en Programación — UTN FRGP**.
 
-Me interesa el desarrollo de software, la resolución de problemas y la creación de aplicaciones que aporten soluciones prácticas. Actualmente sigo aprendiendo y desarrollando proyectos para fortalecer mis conocimientos y crecer profesionalmente en el mundo IT.
+Me interesa el desarrollo de software, la creación de aplicaciones, el desarrollo web y las bases de datos. Disfruto resolver problemas, aprender nuevas tecnologías y construir soluciones para necesidades reales.
+
+---
+
+## 🧑‍💻 Sobre mí
+
+- 🚀 Desarrollando proyectos académicos y personales.
+- 🏗️ Trabajando con aplicaciones de escritorio, sistemas de gestión y sitios web.
+- 🗄️ Aprendiendo y practicando con bases de datos relacionales.
+- 📚 En constante aprendizaje de Java, programación orientada a objetos y buenas prácticas.
+- 🎯 Buscando seguir creciendo como desarrollador de software.
 
 ---
 
 ## 🛠️ Tecnologías y herramientas
 
-**Lenguajes de programación**
+### Lenguajes de programación
 
-- Java
-- C#
-- C++
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,js" alt="Java, C#, C++ y JavaScript" />
+</p>
 
-**Desarrollo web**
+### Desarrollo web
 
-- HTML
-- CSS
-- JavaScript
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML y CSS" />
+</p>
 
-**Bases de datos**
+### Bases de datos
 
-- MySQL
-- SQL Server
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
 
-**Herramientas**
+### Herramientas
 
-- Git y GitHub
-- Visual Studio
-- Eclipse
-- Code::Blocks
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,eclipse,vscode" alt="Git, GitHub, Visual Studio, Eclipse y VS Code" />
+</p>
 
 ---
 
 ## 🚀 Proyectos destacados
 
 ### 🏥 Sistema de gestión de clínica
-Aplicación desarrollada con Visual Studio y SQL Server para administrar pacientes, turnos, usuarios y reportes.
+
+Aplicación para gestionar pacientes, turnos, usuarios y reportes, desarrollada como proyecto académico.
+
+**Tecnologías:** C# · SQL Server · Visual Studio
+
+🔗 [Ver repositorio](URL_REPOSITORIO_CLINICA)
 
 ### 🍔 Sistema de gestión para rotisería
-Aplicación de escritorio desarrollada en C# y Windows Forms para gestionar ventas, pagos, usuarios y reportes.
+
+Aplicación de escritorio para administrar ventas, pagos, usuarios, reportes e impresión de tickets.
+
+**Tecnologías:** C# · Windows Forms · Base de datos SQL
+
+🔗 [Ver repositorio](URL_REPOSITORIO_ROTISERIA)
 
 ### 👥 Sistema de gestión de clientes
-Proyecto académico desarrollado con Java y MySQL, con autenticación de usuarios y operaciones de gestión de clientes.
 
-### 🌐 Página web para eventos gastronómicos
-Sitio web desarrollado con HTML, CSS y JavaScript, con información del negocio y opciones de contacto por WhatsApp.
+Proyecto académico con inicio de sesión, validación de usuarios y operaciones de gestión de clientes mediante una arquitectura por capas.
+
+**Tecnologías:** Java · JSP · Servlets · MySQL
+
+🔗 [Ver repositorio](URL_REPOSITORIO_CLIENTES)
+
+### 🌐 Sitio web para eventos gastronómicos
+
+Sitio web para un emprendimiento gastronómico, con presentación del negocio, menús y acceso al contacto por WhatsApp.
+
+**Tecnologías:** HTML · CSS · JavaScript · GitHub Pages
+
+🌐 [Visitar sitio web](https://massaccesieventos.github.io/)
+
+🔗 [Ver repositorio](URL_REPOSITORIO_WEB)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MattGimenez1&show_icons=true&theme=tokyonight&hide_border=true&locale=es" alt="Estadísticas de GitHub de Matías" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattGimenez1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más utilizados" />
+</p>
 
 ---
 
 ## 📚 Actualmente aprendiendo
 
-- Desarrollo con Java y programación orientada a objetos.
-- Bases de datos relacionales y consultas SQL.
-- Buenas prácticas de programación.
-- Git y GitHub para el control de versiones y el trabajo colaborativo.
+- Java y programación orientada a objetos.
+- Consultas SQL y diseño de bases de datos relacionales.
+- Desarrollo de aplicaciones y buenas prácticas de programación.
+- Git y GitHub para el control de versiones.
 
 ---
 
-## 📫 Contacto
+## 🤝 Conectemos
 
-- GitHub: [Mis repositorios](https://github.com/)
-- LinkedIn: [Mi perfil profesional](https://www.linkedin.com/in/matias-gimenez-28405834b/)
+<p>
+  <a href="https://github.com/MattGimenez1">
+    <img src="https://img.shields.io/badge/GitHub-MattGimenez1-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="URL_MI_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-Contactame-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 ---
 
-⭐ Gracias por visitar mi perfil. ¡Siempre aprendiendo y construyendo nuevos proyectos!
-
+<p align="center">
+  💡 <i>Aprendiendo, creando y mejorando un proyecto a la vez.</i>
+</p>
