@@ -1,5 +1,3 @@
-## Hola, mi nombre es Matias👋
-
 # ¡Hola! Soy Matías Giménez 👋
 
 ### 💻 Desarrollador de software en formación
