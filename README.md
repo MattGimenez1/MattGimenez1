@@ -65,7 +65,7 @@ Sitio web desarrollado con HTML, CSS y JavaScript, con información del negocio 
 ## 📫 Contacto
 
 - GitHub: [Mis repositorios](https://github.com/)
-- LinkedIn: [Mi perfil profesional](www.linkedin.com/in/matias-gimenez-28405834b)
+- LinkedIn: [Mi perfil profesional](https://www.linkedin.com/in/matias-gimenez-28405834b/)
 
 ---
 
